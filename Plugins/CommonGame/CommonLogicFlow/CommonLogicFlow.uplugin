@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CommonLogicFlow",
+	"Description": "",
+	"Category": "Gameplay",
+	"CreatedBy": "SongYun.Ding",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"EnabledByDefault" : true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CommonLogicFlow",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CommonLogicFlowEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
