@@ -2,6 +2,7 @@
 
 #include "Physics/NePhysicsLibrary.h"
 #include "Engine/Engine.h"
+#include "Engine/OverlapResult.h"
 #include "GameFramework/PhysicsVolume.h"
 #include "DrawDebugHelpers.h"
 #include "KismetTraceUtils.h"

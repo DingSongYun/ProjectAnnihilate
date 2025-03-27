@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "NeAbilityBeamLinkage.h"
-#include "PropertyBag.h"
+#include "StructUtils/PropertyBag.h"
 #include "NeAbilityBeam_GameplayTask.generated.h"
 
 class UGameplayAbility;

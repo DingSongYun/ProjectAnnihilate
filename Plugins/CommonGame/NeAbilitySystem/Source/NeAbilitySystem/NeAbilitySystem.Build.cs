@@ -29,7 +29,6 @@ public class NeAbilitySystem : ModuleRules
 				"Core",
 				"Engine",
 				"GameplayAbilities",
-				"StructUtils",
 				"NeGameFramework",
 				"PropertyPath",
 				// ... add other public dependencies that you statically link with here ...

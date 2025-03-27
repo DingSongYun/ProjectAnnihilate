@@ -58,7 +58,6 @@ public class NeAbilitySystemEditor : ModuleRules
 				"SequencerWidgets",
 				"GraphEditor",
 				"BlueprintGraph",
-				"StructUtils",
 				"EngineSettings",
 				"Persona",
 				"Niagara",

@@ -30,7 +30,6 @@ public class NeEditorFramework : ModuleRules
 				"SlateCore",
 				"Slate",
 				"SequencerWidgets",
-				"StructUtils",
 				"BlueprintGraph",
 				"EditorWidgets",
 				// ... add other public dependencies that you statically link with here ...

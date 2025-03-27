@@ -3,7 +3,7 @@
 #pragma once
 #include "PropertyPathHelpers.h"
 #include "GameplayTagContainer.h"
-#include "InstancedStruct.h"
+#include "StructUtils/InstancedStruct.h"
 #include "NeAbilityPropertyBinding.generated.h"
 
 class UNeAbility;

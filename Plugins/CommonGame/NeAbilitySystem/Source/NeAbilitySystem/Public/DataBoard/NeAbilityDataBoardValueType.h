@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "InstancedStruct.h"
+#include "StructUtils/InstancedStruct.h"
 #include "UObject/StructOnScope.h"
 #include "NeAbilityDataBoardValueType.generated.h"
 

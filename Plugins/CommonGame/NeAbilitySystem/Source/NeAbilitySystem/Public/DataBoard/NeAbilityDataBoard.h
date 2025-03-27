@@ -6,6 +6,8 @@
 #include "NeAbilityDataBoardValueType.h"
 #include "NeAbilityDataBoard.generated.h"
 
+struct FInstancedStruct;
+
 UENUM(BlueprintType)
 enum class EAbilityDataAccessResult : uint8
 {
