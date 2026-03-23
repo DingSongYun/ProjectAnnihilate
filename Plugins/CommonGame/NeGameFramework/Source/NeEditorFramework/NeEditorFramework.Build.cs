@@ -49,7 +49,6 @@ public class NeEditorFramework : ModuleRules
 				"SequencerWidgets",
 				"EditorWidgets",
 				"TimeManagement",
-				"StructUtils",
 				"AdvancedPreviewScene",
 				// ... add private dependencies that you statically link with here ...
 			}

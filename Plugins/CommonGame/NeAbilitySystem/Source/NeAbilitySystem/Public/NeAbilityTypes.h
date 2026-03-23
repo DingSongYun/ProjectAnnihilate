@@ -168,5 +168,5 @@ struct NEABILITYSYSTEM_API FNeSlottedAbility
 	FGameplayTag SlotTag;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite)
-	int32 AbilityLevel;
+	int32 AbilityLevel = 0;
 };
